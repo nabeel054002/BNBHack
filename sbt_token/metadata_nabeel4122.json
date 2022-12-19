@@ -1,0 +1,18 @@
+{
+    "attributes" : [ {
+      "trait_type" : "NFT",
+      "value" : "Soulbound"
+    }, {
+      "trait_type" : "Asset",
+      "value" : "Non-transferable Badge"
+    }, {
+        "trait_type" : "Badge",
+        "value" : "Minting First Soulbound Token"
+      }, {
+        "trait_type" : "Name",
+        "value" : "Nabeel4122"
+      }   ],
+    "description" : "This represents the proof of membership of Samsara",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmcJF5PtS7LS8UaE1d17oErUWRtU6HCfQuZhtKYftdxVtn",
+    "name" : "Soulbound Token"
+}
